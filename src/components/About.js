@@ -1,19 +1,13 @@
 // Import Assets
-import profile from '../assets/profile.png';
+
 
 const About = () => {
     return (
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                Hello, my name is Chris and I'm a community taught developer with a passion for learning, creating and problem solving.
+                I'm particularly interested open-source, decentraliztion, blockchain, smart contracts and the future of web3.
             </p>
         </section>
     );
